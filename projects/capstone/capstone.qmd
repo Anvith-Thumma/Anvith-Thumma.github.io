@@ -1,0 +1,28 @@
+---
+title: "My Capstone project"
+description: "This is my summer 2025 capstone project"
+date: "July 2025"
+recources: "."
+about:
+  template: solana
+  image: cover.jpeg
+  links: 
+    - icon: github
+      text: "Github"
+      href:  https://github.com/helenpeng04/obesity-capstone.git
+      target: blank
+    - icon: easel
+      text: "Slides"
+      href: https://docs.google.com/presentation/d/1REqmm4iaYarLQJNUmISFNPsWNb3tiflzgoL5SNK1ARw/edit?usp=sharing 
+      target: blank
+    - icon: file-code
+      text: "Report"
+      href: https://github.com/helenpeng04/obesity-capstone.git # change later
+      target: blank
+
+---
+
+This is my EDA project...
+
+Some info...
+

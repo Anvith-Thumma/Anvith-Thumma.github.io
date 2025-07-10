@@ -1,0 +1,23 @@
+---
+title: "My EDA project"
+description: "This is my summer 2025 eda project"
+date: "June 2025"
+recources: "."
+about:
+  template: solana
+  image: cover.jpeg
+  links: 
+    - icon: github
+      text: "Github"
+      href:  https://github.com/merismce/CMU-SURE-25-EDA-Project-3.git
+      target: blank
+    - icon: easel
+      text: "Slides"
+      href: https://docs.google.com/presentation/d/1-XJgVV77vNPKtr8oOI_e-rkl5OxJrN9twL4YgkBDsZk/edit?usp=sharing 
+      target: blank
+
+---
+
+This is my EDA project...
+
+Some info...

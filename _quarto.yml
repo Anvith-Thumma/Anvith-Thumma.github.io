@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Anvith Thumma"
+  navbar:
+    background: "#AE8CF3"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Project.qmd
+        text: Projects
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/in/anvithumma
+        target: blank
+      - icon: github
+        href: https://www.github.com
+        target: blank
+      - icon: file-pdf
+        href: assets/Anvith_Resume.pdf
+        
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+

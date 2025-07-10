@@ -1,0 +1,19 @@
+---
+title: "Anvith Thumma"
+about:
+  template: jolla
+  image: assets/clown.png
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto: anvith.thumma@gmail.com"
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+
+Welcome to my website! I am a final year undergrad at Arizona State University studying Data Science. 
+
+I'm currently very interested in ...
